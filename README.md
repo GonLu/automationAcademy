@@ -1,2 +1,2 @@
 # automationAcademy
-a training driven repository for automation
+A training driven repository for automation
